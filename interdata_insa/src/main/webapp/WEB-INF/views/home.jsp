@@ -10,6 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<!-- 수민 테스트 222333-->
+<!--test 333-->
 </body>
 </html>
